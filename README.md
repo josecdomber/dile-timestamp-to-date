@@ -10,7 +10,7 @@ Polymer component to show a date, in an appropiate format to human read.
 
 The date to display is entered by settimg a timestamp.
 
-It also posible to set a format to introduce de way to presente the date to the user.
+It also posible to set a format to introduce de way to present the date to the user.
 
 ```html
 <dile-timestamp-to-date 
